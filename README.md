@@ -1011,7 +1011,7 @@ This indicates that the generated accelerator maintains nearly identical perform
 ---
 
 ## Intermediate Transformations:
-Tidy Up transformations:
+## Tidy Up transformations:
 <img width="242" height="4670" alt="step_tidy_up onnx" src="https://github.com/user-attachments/assets/b4c8058d-e2e0-4bc4-9ae8-a2440fdcb399" />
 
 ## Streamlining transformations:
